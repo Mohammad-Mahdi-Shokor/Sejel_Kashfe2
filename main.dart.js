@@ -81878,7 +81878,7 @@ q=A.fk(s)===A.fk(h)
 p=s.TN(r)&&q
 o=A.eV(s)===A.eV(r)&&A.fk(s)===A.fk(r)&&A.pM(s)===A.pM(r)
 h=k.b
-if(J.m3(h,s)){n=k.c>700?500:A.aW(a,j,t.w).w.a.a*0.047
+if(J.m3(h,s)){n=k.c>700?23.5:A.aW(a,j,t.w).w.a.a*0.047
 n=A.ZB(p?B.tm:B.jD,3,0,j,n)}else n=A.cA(j,j,B.q,j,j,j,j,j,j,j,j,j,j)
 if(q)if(p){m=$.hI().h(0,B.r)
 m.toString
